@@ -10,10 +10,6 @@ and so was hardly touched.
 
 <img src=.\assets\images\_C__Users_ubers_Downloads_bootcamp_module1_index.html.png>
 
-## Installation
-
-You may access the website by going to its URL https://aedelfrid.github.io/SeorchLight/
-
 ## Usage
 
 You may access the website by going to its URL https://aedelfrid.github.io/SeorchLight/
