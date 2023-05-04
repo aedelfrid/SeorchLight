@@ -3,16 +3,16 @@
 ## Description
 This website is an amendment of source code provided by the teachers of the bootcamp as a challenge.
 
-In the amended code I have changed the HTML elements to conform to semantic HTML, added a creative name, then added a concise descriptive title, checked heading attributes, and added alt attributes to the images.
+In the amended code I have changed the HTML elements to conform to semantic HTML, added a creative name, then added a concise descriptive title, checked heading attributes, added alt attributes to the images, and changed the nav bar to fit on smaller screens.
 
-In my eyes the elements already followed a logical structure independent of styling and positioning,
-and so was hardly touched.
+in addition, I changed a few peieces of CSS to cut down on repetitious and redundant
+classes.
 
-<img src=.\assets\images\_C__Users_ubers_Downloads_bootcamp_module1_index.html.png>
+### Desktop site
+<img src=./assets/README/scrnshot.png>
 
-## Installation
-
-You may access the website by going to its URL https://aedelfrid.github.io/SeorchLight/
+### Mobile Site
+<img src=./assets/README/scrnshot-iphone-se.png>
 
 ## Usage
 
