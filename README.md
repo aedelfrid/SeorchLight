@@ -9,10 +9,14 @@ in addition, I changed a few peieces of CSS to cut down on repetitious and redun
 classes.
 
 ### Desktop site
+
 <img src=./assets/README/scrnshot.png>
 
+
 ### Mobile Site
+
 <img src=./assets/README/scrnshot-iphone-se.png>
+
 
 ## Usage
 
